@@ -1,2 +1,2 @@
-# Jupyter notebooks for some popular libraries
-Some jupyter notebooks to refresh basic concepts.
+## Jupyter notebooks for some popular libraries
+Some jupyter notebooks I created to refresh/practice basic concepts.
